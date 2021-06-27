@@ -3,7 +3,7 @@
 This project is a portfolio for a drawing artist.
 
 ## Color Palette
-![colors](src/styles/assets/colors.png)
+![colors](https://github.com/gassorebeca/ana-a-de-arte/tree/main/src/styles/assets/colors.png)
 
 ## Available Scripts
 
